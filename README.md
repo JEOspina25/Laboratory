@@ -1,2 +1,2 @@
 # Laboratory
-Here, there are some thing about laboratory work at UdeA.
+Here, there are some things about laboratory work at UdeA.
